@@ -1,0 +1,161 @@
+Jul 11 09:03:06 10.71.53.6 u89749545 Connection from 10.71.53.6 port 31108 on 66.175.239.56 port 22
+Jul 11 09:03:07 10.71.53.6 u89749545 Accepted password for u89749545 from 10.71.53.6 port 31108 ssh2
+Jul 11 09:03:07 10.71.53.6 u89749545 Starting session: subsystem 'sftp' for u89749545 from 10.71.53.6 port 31108
+Jul 11 09:03:07 10.71.53.6 u89749545 session opened for local user u89749545 from [10.71.53.6]
+Jul 11 09:04:16 10.71.53.6 u89749545 Connection from 10.71.53.6 port 11512 on 66.175.239.56 port 22
+Jul 11 09:04:17 10.71.53.6 u89749545 Accepted password for u89749545 from 10.71.53.6 port 11512 ssh2
+Jul 11 09:04:17 10.71.53.6 u89749545 Starting session: subsystem 'sftp' for u89749545 from 10.71.53.6 port 11512
+Jul 11 09:04:17 10.71.53.6 u89749545 session opened for local user u89749545 from [10.71.53.6]
+Jul 11 09:04:16 10.71.53.6 u89749545 Connection from 10.71.53.6 port 11508 on 66.175.239.56 port 22
+Jul 11 09:04:17 10.71.53.6 u89749545 Accepted password for u89749545 from 10.71.53.6 port 11508 ssh2
+Jul 11 09:04:17 10.71.53.6 u89749545 Starting session: subsystem 'sftp' for u89749545 from 10.71.53.6 port 11508
+Jul 11 09:04:17 10.71.53.6 u89749545 session opened for local user u89749545 from [10.71.53.6]
+Jul 11 09:04:18 10.71.53.6 u89749545 open "/admin.php" flags READ mode 0666
+Jul 11 09:04:18 10.71.53.6 u89749545 close "/admin.php" bytes read 3631 written 0
+Jul 11 09:04:18 10.71.53.6 u89749545 [10.71.53.6|get|0|3631|0|0|0|2f61646d696e2e706870|]
+Jul 11 09:04:18 10.71.53.6 u89749545 open "/.gitignore" flags READ mode 0666
+Jul 11 09:04:18 10.71.53.6 u89749545 open "/details.php" flags READ mode 0666
+Jul 11 09:04:19 10.71.53.6 u89749545 close "/.gitignore" bytes read 29 written 0
+Jul 11 09:04:19 10.71.53.6 u89749545 [10.71.53.6|get|1|29|0|0|0|2f2e67697469676e6f7265|]
+Jul 11 09:04:19 10.71.53.6 u89749545 close "/details.php" bytes read 8625 written 0
+Jul 11 09:04:19 10.71.53.6 u89749545 [10.71.53.6|get|1|8625|0|0|0|2f64657461696c732e706870|]
+Jul 11 09:04:19 10.71.53.6 u89749545 open "/editPass.php" flags READ mode 0666
+Jul 11 09:04:19 10.71.53.6 u89749545 open "/index.php" flags READ mode 0666
+Jul 11 09:04:19 10.71.53.6 u89749545 close "/editPass.php" bytes read 3914 written 0
+Jul 11 09:04:19 10.71.53.6 u89749545 [10.71.53.6|get|0|3914|0|0|0|2f65646974506173732e706870|]
+Jul 11 09:04:19 10.71.53.6 u89749545 close "/index.php" bytes read 3011 written 0
+Jul 11 09:04:19 10.71.53.6 u89749545 [10.71.53.6|get|0|3011|0|0|0|2f696e6465782e706870|]
+Jul 11 09:04:19 10.71.53.6 u89749545 open "/MedicalInfo.php" flags READ mode 0666
+Jul 11 09:04:19 10.71.53.6 u89749545 open "/LICENSE" flags READ mode 0666
+Jul 11 09:04:20 10.71.53.6 u89749545 close "/MedicalInfo.php" bytes read 1700 written 0
+Jul 11 09:04:20 10.71.53.6 u89749545 [10.71.53.6|get|1|1700|0|0|0|2f4d65646963616c496e666f2e706870|]
+Jul 11 09:04:20 10.71.53.6 u89749545 close "/LICENSE" bytes read 1094 written 0
+Jul 11 09:04:20 10.71.53.6 u89749545 [10.71.53.6|get|1|1094|0|0|0|2f4c4943454e5345|]
+Jul 11 09:04:20 10.71.53.6 u89749545 open "/README.md" flags READ mode 0666
+Jul 11 09:04:20 10.71.53.6 u89749545 open "/selectVote.php" flags READ mode 0666
+Jul 11 09:04:21 10.71.53.6 u89749545 close "/README.md" bytes read 1617 written 0
+Jul 11 09:04:21 10.71.53.6 u89749545 [10.71.53.6|get|1|1617|0|0|0|2f524541444d452e6d64|]
+Jul 11 09:04:21 10.71.53.6 u89749545 close "/selectVote.php" bytes read 3724 written 0
+Jul 11 09:04:21 10.71.53.6 u89749545 [10.71.53.6|get|1|3724|0|0|0|2f73656c656374566f74652e706870|]
+Jul 11 09:04:21 10.71.53.6 u89749545 open "/submit.php" flags READ mode 0666
+Jul 11 09:04:21 10.71.53.6 u89749545 sent status No such file
+Jul 11 09:04:21 10.71.53.6 u89749545 open "/users.php" flags READ mode 0666
+Jul 11 09:04:21 10.71.53.6 u89749545 close "/submit.php" bytes read 5458 written 0
+Jul 11 09:04:21 10.71.53.6 u89749545 [10.71.53.6|get|0|5458|0|0|0|2f7375626d69742e706870|]
+Jul 11 09:04:22 10.71.53.6 u89749545 close "/users.php" bytes read 5801 written 0
+Jul 11 09:04:22 10.71.53.6 u89749545 [10.71.53.6|get|1|5801|0|0|0|2f75736572732e706870|]
+Jul 11 09:04:22 10.71.53.6 u89749545 open "/vote.php" flags READ mode 0666
+Jul 11 09:04:22 10.71.53.6 u89749545 close "/vote.php" bytes read 4810 written 0
+Jul 11 09:04:22 10.71.53.6 u89749545 [10.71.53.6|get|0|4810|0|0|0|2f766f74652e706870|]
+Jul 11 09:04:22 10.71.53.6 u89749545 open "/css/bootstrap.css" flags READ mode 0666
+Jul 11 09:04:23 10.71.53.6 u89749545 open "/css/bootstrap.min.css" flags READ mode 0666
+Jul 11 09:04:23 10.71.53.6 u89749545 close "/css/bootstrap.css" bytes read 146010 written 0
+Jul 11 09:04:23 10.71.53.6 u89749545 [10.71.53.6|get|1|146010|0|0|0|2f6373732f626f6f7473747261702e637373|]
+Jul 11 09:04:23 10.71.53.6 u89749545 close "/css/bootstrap.min.css" bytes read 121200 written 0
+Jul 11 09:04:23 10.71.53.6 u89749545 [10.71.53.6|get|0|121200|0|0|0|2f6373732f626f6f7473747261702e6d696e2e637373|]
+Jul 11 09:04:23 10.71.53.6 u89749545 open "/fonts/index.php" flags READ mode 0666
+Jul 11 09:04:24 10.71.53.6 u89749545 close "/fonts/index.php" bytes read 7393 written 0
+Jul 11 09:04:24 10.71.53.6 u89749545 [10.71.53.6|get|1|7393|0|0|0|2f666f6e74732f696e6465782e706870|]
+Jul 11 09:04:24 10.71.53.6 u89749545 open "/fonts/glyphicons-halflings-regular.woff2" flags READ mode 0666
+Jul 11 09:04:24 10.71.53.6 u89749545 open "/fonts/glyphicons-halflings-regular.woff" flags READ mode 0666
+Jul 11 09:04:24 10.71.53.6 u89749545 close "/fonts/glyphicons-halflings-regular.woff2" bytes read 18028 written 0
+Jul 11 09:04:24 10.71.53.6 u89749545 [10.71.53.6|get|0|18028|0|0|0|2f666f6e74732f676c79706869636f6e732d68616c666c696e67732d726567756c61722e776f666632|]
+Jul 11 09:04:24 10.71.53.6 u89749545 close "/fonts/glyphicons-halflings-regular.woff" bytes read 23424 written 0
+Jul 11 09:04:24 10.71.53.6 u89749545 [10.71.53.6|get|0|23424|0|0|0|2f666f6e74732f676c79706869636f6e732d68616c666c696e67732d726567756c61722e776f6666|]
+Jul 11 09:04:24 10.71.53.6 u89749545 open "/fonts/glyphicons-halflings-regular.ttf" flags READ mode 0666
+Jul 11 09:04:25 10.71.53.6 u89749545 open "/fonts/glyphicons-halflings-regular.svg" flags READ mode 0666
+Jul 11 09:04:25 10.71.53.6 u89749545 close "/fonts/glyphicons-halflings-regular.ttf" bytes read 45404 written 0
+Jul 11 09:04:25 10.71.53.6 u89749545 [10.71.53.6|get|1|45404|0|0|0|2f666f6e74732f676c79706869636f6e732d68616c666c696e67732d726567756c61722e747466|]
+Jul 11 09:04:25 10.71.53.6 u89749545 close "/fonts/glyphicons-halflings-regular.svg" bytes read 108738 written 0
+Jul 11 09:04:25 10.71.53.6 u89749545 [10.71.53.6|get|0|108738|0|0|0|2f666f6e74732f676c79706869636f6e732d68616c666c696e67732d726567756c61722e737667|]
+Jul 11 09:04:25 10.71.53.6 u89749545 open "/fonts/glyphicons-halflings-regular.eot" flags READ mode 0666
+Jul 11 09:04:25 10.71.53.6 u89749545 close "/fonts/glyphicons-halflings-regular.eot" bytes read 20127 written 0
+Jul 11 09:04:25 10.71.53.6 u89749545 [10.71.53.6|get|0|20127|0|0|0|2f666f6e74732f676c79706869636f6e732d68616c666c696e67732d726567756c61722e656f74|]
+Jul 11 09:04:25 10.71.53.6 u89749545 open "/inc/voteObject.php" flags READ mode 0666
+Jul 11 09:04:26 10.71.53.6 u89749545 close "/inc/voteObject.php" bytes read 7236 written 0
+Jul 11 09:04:26 10.71.53.6 u89749545 [10.71.53.6|get|1|7236|0|0|0|2f696e632f766f74654f626a6563742e706870|]
+Jul 11 09:04:26 10.71.53.6 u89749545 open "/inc/voteDelete.php" flags READ mode 0666
+Jul 11 09:04:26 10.71.53.6 u89749545 open "/inc/userObject.php" flags READ mode 0666
+Jul 11 09:04:26 10.71.53.6 u89749545 close "/inc/voteDelete.php" bytes read 199 written 0
+Jul 11 09:04:26 10.71.53.6 u89749545 [10.71.53.6|get|0|199|0|0|0|2f696e632f766f746544656c6574652e706870|]
+Jul 11 09:04:26 10.71.53.6 u89749545 close "/inc/userObject.php" bytes read 2026 written 0
+Jul 11 09:04:26 10.71.53.6 u89749545 [10.71.53.6|get|0|2026|0|0|0|2f696e632f757365724f626a6563742e706870|]
+Jul 11 09:04:27 10.71.53.6 u89749545 open "/inc/userDelete.php" flags READ mode 0666
+Jul 11 09:04:27 10.71.53.6 u89749545 open "/inc/submitVote.php" flags READ mode 0666
+Jul 11 09:04:27 10.71.53.6 u89749545 close "/inc/userDelete.php" bytes read 318 written 0
+Jul 11 09:04:27 10.71.53.6 u89749545 [10.71.53.6|get|0|318|0|0|0|2f696e632f7573657244656c6574652e706870|]
+Jul 11 09:04:27 10.71.53.6 u89749545 close "/inc/submitVote.php" bytes read 2266 written 0
+Jul 11 09:04:27 10.71.53.6 u89749545 [10.71.53.6|get|0|2266|0|0|0|2f696e632f7375626d6974566f74652e706870|]
+Jul 11 09:04:27 10.71.53.6 u89749545 open "/inc/login.php" flags READ mode 0666
+Jul 11 09:04:27 10.71.53.6 u89749545 open "/inc/inc.php" flags READ mode 0666
+Jul 11 09:04:28 10.71.53.6 u89749545 close "/inc/login.php" bytes read 424 written 0
+Jul 11 09:04:28 10.71.53.6 u89749545 [10.71.53.6|get|1|424|0|0|0|2f696e632f6c6f67696e2e706870|]
+Jul 11 09:04:28 10.71.53.6 u89749545 close "/inc/inc.php" bytes read 124 written 0
+Jul 11 09:04:28 10.71.53.6 u89749545 [10.71.53.6|get|1|124|0|0|0|2f696e632f696e632e706870|]
+Jul 11 09:04:28 10.71.53.6 u89749545 open "/inc/confirm.php" flags READ mode 0666
+Jul 11 09:04:28 10.71.53.6 u89749545 open "/inc/confim.php" flags READ mode 0666
+Jul 11 09:04:29 10.71.53.6 u89749545 close "/inc/confirm.php" bytes read 760 written 0
+Jul 11 09:04:29 10.71.53.6 u89749545 [10.71.53.6|get|1|760|0|0|0|2f696e632f636f6e6669726d2e706870|]
+Jul 11 09:04:29 10.71.53.6 u89749545 close "/inc/confim.php" bytes read 752 written 0
+Jul 11 09:04:29 10.71.53.6 u89749545 [10.71.53.6|get|1|752|0|0|0|2f696e632f636f6e66696d2e706870|]
+Jul 11 09:04:29 10.71.53.6 u89749545 open "/inc/canidateDelete.php" flags READ mode 0666
+Jul 11 09:04:29 10.71.53.6 u89749545 open "/inc/ballotDelete.php" flags READ mode 0666
+Jul 11 09:04:29 10.71.53.6 u89749545 close "/inc/canidateDelete.php" bytes read 203 written 0
+Jul 11 09:04:29 10.71.53.6 u89749545 [10.71.53.6|get|0|203|0|0|0|2f696e632f63616e696461746544656c6574652e706870|]
+Jul 11 09:04:30 10.71.53.6 u89749545 close "/inc/ballotDelete.php" bytes read 198 written 0
+Jul 11 09:04:30 10.71.53.6 u89749545 [10.71.53.6|get|1|198|0|0|0|2f696e632f62616c6c6f7444656c6574652e706870|]
+Jul 11 09:04:30 10.71.53.6 u89749545 open "/inc/addaCanidate.php" flags READ mode 0666
+Jul 11 09:04:30 10.71.53.6 u89749545 open "/inc/addUser.php" flags READ mode 0666
+Jul 11 09:04:30 10.71.53.6 u89749545 close "/inc/addaCanidate.php" bytes read 383 written 0
+Jul 11 09:04:30 10.71.53.6 u89749545 [10.71.53.6|get|0|383|0|0|0|2f696e632f6164646143616e69646174652e706870|]
+Jul 11 09:04:30 10.71.53.6 u89749545 close "/inc/addUser.php" bytes read 735 written 0
+Jul 11 09:04:30 10.71.53.6 u89749545 [10.71.53.6|get|0|735|0|0|0|2f696e632f616464557365722e706870|]
+Jul 11 09:04:31 10.71.53.6 u89749545 open "/js/bootstrap.js" flags READ mode 0666
+Jul 11 09:04:32 10.71.53.6 u89749545 close "/js/bootstrap.js" bytes read 69707 written 0
+Jul 11 09:04:32 10.71.53.6 u89749545 [10.71.53.6|get|1|69707|0|0|0|2f6a732f626f6f7473747261702e6a73|]
+Jul 11 09:04:32 10.71.53.6 u89749545 open "/js/jquery.js" flags READ mode 0666
+Jul 11 09:04:32 10.71.53.6 u89749545 open "/js/bootstrap.min.js" flags READ mode 0666
+Jul 11 09:04:32 10.71.53.6 u89749545 close "/js/jquery.js" bytes read 95785 written 0
+Jul 11 09:04:32 10.71.53.6 u89749545 [10.71.53.6|get|0|95785|0|0|0|2f6a732f6a71756572792e6a73|]
+Jul 11 09:04:32 10.71.53.6 u89749545 close "/js/bootstrap.min.js" bytes read 37045 written 0
+Jul 11 09:04:32 10.71.53.6 u89749545 [10.71.53.6|get|0|37045|0|0|0|2f6a732f626f6f7473747261702e6d696e2e6a73|]
+Jul 11 09:04:33 10.71.53.6 u89749545 open "/logs/access.log.27.7.gz" flags READ mode 0666
+Jul 11 09:04:33 10.71.53.6 u89749545 open "/logs/access.log.24.gz" flags READ mode 0666
+Jul 11 09:04:33 10.71.53.6 u89749545 close "/logs/access.log.27.7.gz" bytes read 492 written 0
+Jul 11 09:04:33 10.71.53.6 u89749545 [10.71.53.6|get|0|492|0|0|0|2f6c6f67732f6163636573732e6c6f672e32372e372e677a|]
+Jul 11 09:04:33 10.71.53.6 u89749545 close "/logs/access.log.24.gz" bytes read 3621 written 0
+Jul 11 09:04:33 10.71.53.6 u89749545 [10.71.53.6|get|0|3621|0|0|0|2f6c6f67732f6163636573732e6c6f672e32342e677a|]
+Jul 11 09:04:33 10.71.53.6 u89749545 open "/logs/access.log.27.6.gz" flags READ mode 0666
+Jul 11 09:04:34 10.71.53.6 u89749545 open "/logs/access.log.27.3.gz" flags READ mode 0666
+Jul 11 09:04:34 10.71.53.6 u89749545 close "/logs/access.log.27.6.gz" bytes read 1025 written 0
+Jul 11 09:04:34 10.71.53.6 u89749545 [10.71.53.6|get|1|1025|0|0|0|2f6c6f67732f6163636573732e6c6f672e32372e362e677a|]
+Jul 11 09:04:34 10.71.53.6 u89749545 close "/logs/access.log.27.3.gz" bytes read 1068 written 0
+Jul 11 09:04:34 10.71.53.6 u89749545 [10.71.53.6|get|0|1068|0|0|0|2f6c6f67732f6163636573732e6c6f672e32372e332e677a|]
+Jul 11 09:04:34 10.71.53.6 u89749545 open "/logs/sftp.log.25.gz" flags READ mode 0666
+Jul 11 09:04:34 10.71.53.6 u89749545 open "/logs/access.log.21.gz" flags READ mode 0666
+Jul 11 09:04:34 10.71.53.6 u89749545 close "/logs/sftp.log.25.gz" bytes read 682 written 0
+Jul 11 09:04:34 10.71.53.6 u89749545 [10.71.53.6|get|0|682|0|0|0|2f6c6f67732f736674702e6c6f672e32352e677a|]
+Jul 11 09:04:35 10.71.53.6 u89749545 close "/logs/access.log.21.gz" bytes read 2757 written 0
+Jul 11 09:04:35 10.71.53.6 u89749545 [10.71.53.6|get|1|2757|0|0|0|2f6c6f67732f6163636573732e6c6f672e32312e677a|]
+Jul 11 09:04:35 10.71.53.6 u89749545 open "/logs/access.log.27.5.gz" flags READ mode 0666
+Jul 11 09:04:35 10.71.53.6 u89749545 open "/logs/access.log.27.4.gz" flags READ mode 0666
+Jul 11 09:04:35 10.71.53.6 u89749545 close "/logs/access.log.27.5.gz" bytes read 457 written 0
+Jul 11 09:04:35 10.71.53.6 u89749545 [10.71.53.6|get|0|457|0|0|0|2f6c6f67732f6163636573732e6c6f672e32372e352e677a|]
+Jul 11 09:04:35 10.71.53.6 u89749545 close "/logs/access.log.27.4.gz" bytes read 889 written 0
+Jul 11 09:04:35 10.71.53.6 u89749545 [10.71.53.6|get|0|889|0|0|0|2f6c6f67732f6163636573732e6c6f672e32372e342e677a|]
+Jul 11 09:04:36 10.71.53.6 u89749545 open "/logs/access.log.27.2.gz" flags READ mode 0666
+Jul 11 09:04:36 10.71.53.6 u89749545 open "/logs/access.log.27.1.gz" flags READ mode 0666
+Jul 11 09:04:36 10.71.53.6 u89749545 close "/logs/access.log.27.2.gz" bytes read 663 written 0
+Jul 11 09:04:36 10.71.53.6 u89749545 [10.71.53.6|get|0|663|0|0|0|2f6c6f67732f6163636573732e6c6f672e32372e322e677a|]
+Jul 11 09:04:36 10.71.53.6 u89749545 close "/logs/access.log.27.1.gz" bytes read 1049 written 0
+Jul 11 09:04:36 10.71.53.6 u89749545 [10.71.53.6|get|0|1049|0|0|0|2f6c6f67732f6163636573732e6c6f672e32372e312e677a|]
+Jul 11 09:04:36 10.71.53.6 u89749545 open "/logs/access.log.25.gz" flags READ mode 0666
+Jul 11 09:04:37 10.71.53.6 u89749545 open "/logs/access.log.23.gz" flags READ mode 0666
+Jul 11 09:04:37 10.71.53.6 u89749545 close "/logs/access.log.25.gz" bytes read 4281 written 0
+Jul 11 09:04:37 10.71.53.6 u89749545 [10.71.53.6|get|1|4281|0|0|0|2f6c6f67732f6163636573732e6c6f672e32352e677a|]
+Jul 11 09:04:37 10.71.53.6 u89749545 close "/logs/access.log.23.gz" bytes read 2348 written 0
+Jul 11 09:04:37 10.71.53.6 u89749545 [10.71.53.6|get|0|2348|0|0|0|2f6c6f67732f6163636573732e6c6f672e32332e677a|]
+Jul 11 09:04:37 10.71.53.6 u89749545 open "/logs/access.log.22.gz" flags READ mode 0666
+Jul 11 09:04:37 10.71.53.6 u89749545 open "/logs/sftp.log" flags READ mode 0666
+Jul 11 09:04:37 10.71.53.6 u89749545 close "/logs/access.log.22.gz" bytes read 2603 written 0
+Jul 11 09:04:37 10.71.53.6 u89749545 [10.71.53.6|get|0|2603|0|0|0|2f6c6f67732f6163636573732e6c6f672e32322e677a|]
